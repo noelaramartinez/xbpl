@@ -1,0 +1,1902 @@
+<Package xmlns="http://www.wfmc.org/2008/XPDL2.1" Id="PG_1000" Name="ProcessGuide XPDL 2.1 Export">
+	<PackageHeader>
+		<XPDLVersion>2.1</XPDLVersion>
+		<Vendor>QPR Software Plc.</Vendor>
+		<Created/>
+		<Documentation/>
+	</PackageHeader>
+	<RedefinableHeader/>
+	<Pages>
+		<Page Name="_TPL_Page" Id="PG_0.p" ParentPage=""/>
+		<Page Name="Desarrollar jornadas interamericanas electorales en el INE" Id="PG_4224597.p" ParentPage="PG_0.p"/>
+		<Page Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES" Id="PG_457493914.p" ParentPage="PG_4224597.p"/>
+		<Page Name="ORGANIZACIÓN DE ESTADOS AMERICANOS" Id="PG_912008364.p" ParentPage="PG_4224597.p"/>
+		<Page Name="PRESIDENCIA DEL CONSEJO" Id="PG_1209520792.p" ParentPage="PG_4224597.p"/>
+		<Page Name="Difusión informativa" Id="PG_141811795.p" ParentPage="PG_0.p"/>
+		<Page Name="OFICIALÍA DE PARTES" Id="PG_107051910.p" ParentPage="PG_141811795.p"/>
+		<Page Name="DIRECCIÓN DE VINCULACIÓN Y COOPERACIÓN INTERNACIONAL" Id="PG_613966251.p" ParentPage="PG_141811795.p"/>
+		<Page Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES" Id="PG_1496250194.p" ParentPage="PG_141811795.p"/>
+		<Page Name="Red de conocimientos electorales ACE" Id="PG_412794670.p" ParentPage="PG_0.p"/>
+		<Page Name="Comparar datos" Id="PG_295440332.p" ParentPage="PG_412794670.p"/>
+		<Page Name="DIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES" Id="PG_202798310.p" ParentPage="PG_295440332.p"/>
+		<Page Name="SUBDIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES" Id="PG_1284984934.p" ParentPage="PG_295440332.p"/>
+		<Page Name="Traducir contenidos" Id="PG_803598191.p" ParentPage="PG_412794670.p"/>
+		<Page Name="DIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES" Id="PG_207093593.p" ParentPage="PG_803598191.p"/>
+		<Page Name="SUBDIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES" Id="PG_1634373312.p" ParentPage="PG_803598191.p"/>
+		<Page Name="Materiales electorales" Id="PG_1080529818.p" ParentPage="PG_412794670.p"/>
+		<Page Name="SUBDIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES" Id="PG_140741949.p" ParentPage="PG_1080529818.p"/>
+		<Page Name="DIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES" Id="PG_1748744306.p" ParentPage="PG_1080529818.p"/>
+		<Page Name="Desarrollar pasantías de organismos de administración electoral en el INE" Id="PG_634963827.p" ParentPage="PG_0.p"/>
+		<Page Name="SUBDIRECCIÓN DE GESTIÓN DE PROGRAMAS DE CAPACITACIÓN INTERNACIONAL" Id="PG_560173022.p" ParentPage="PG_634963827.p"/>
+		<Page Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES" Id="PG_783782859.p" ParentPage="PG_634963827.p"/>
+		<Page Name="PRESIDENCIA DEL CONSEJO" Id="PG_1298949815.p" ParentPage="PG_634963827.p"/>
+		<Page Name="SUBDIRECCIÓN DE LOGÍSTICA Y SEGUIMIENTO ADMINISTRATIVO" Id="PG_1984102242.p" ParentPage="PG_634963827.p"/>
+		<Page Name="Vincular instituciones susceptibles para colaborar en el VMRE" Id="PG_723036834.p" ParentPage="PG_0.p"/>
+		<Page Name="OFICINA DE VINCULACIÓN ELECTORAL DE LOS MEXICANOS EN EL EXTRANJERO" Id="PG_74725720.p" ParentPage="PG_723036834.p"/>
+		<Page Name="INSTITUCIÓN SUSCEPTIBLE DE COLABORAR EN EL VMRE" Id="PG_1797138212.p" ParentPage="PG_723036834.p"/>
+		<Page Name="Misiones internacionales" Id="PG_814884864.p" ParentPage="PG_0.p"/>
+		<Page Name="PRESIDENCIA DEL CONSEJO" Id="PG_167850084.p" ParentPage="PG_814884864.p"/>
+		<Page Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES" Id="PG_418659253.p" ParentPage="PG_814884864.p"/>
+		<Page Name="DIRECCIÓN DE VINCULACIÓN Y COOPERACIÓN INTERNACIONAL" Id="PG_780187018.p" ParentPage="PG_814884864.p"/>
+		<Page Name="PERSONA COMISIONADA" Id="PG_1522780661.p" ParentPage="PG_814884864.p"/>
+		<Page Name="SUBDIRECCIÓN DE VINCULACIÓN CON ORGANISMOS INTERNACIONALES" Id="PG_2046528516.p" ParentPage="PG_814884864.p"/>
+		<Page Name="Base de datos global" Id="PG_939649000.p" ParentPage="PG_0.p"/>
+		<Page Name="SUBDIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES " Id="PG_708147967.p" ParentPage="PG_939649000.p"/>
+		<Page Name="DIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES" Id="PG_863797061.p" ParentPage="PG_939649000.p"/>
+		<Page Name="JEFATURA DE DEPARTAMENTO DE INVESTIGACIÓN" Id="PG_1327068000.p" ParentPage="PG_939649000.p"/>
+		<Page Name="DEPARTAMENTO DE INVESTIGACIÓN" Id="PG_1760814792.p" ParentPage="PG_939649000.p"/>
+		<Page Name="Publicar contenido referente al VMRE en diferentes plataformas digitales" Id="PG_1189142718.p" ParentPage="PG_0.p"/>
+		<Page Name="TITULAR DE LA COORDINACIÓN DE ASUNTOS INTERNACIONALES U OVEME" Id="PG_1040528894.p" ParentPage="PG_1189142718.p"/>
+		<Page Name="OFICINA DE VINCULACIÓN ELECTORAL DE LOS MEXICANOS EN EL EXTRANJERO" Id="PG_1143487544.p" ParentPage="PG_1189142718.p"/>
+		<Page Name="Atención a solicitudes de apoyo y colaborar con OPLE´S" Id="PG_1353908087.p" ParentPage="PG_0.p"/>
+		<Page Name="PRESIDENCIA DEL CONSEJO" Id="PG_193632660.p" ParentPage="PG_1353908087.p"/>
+		<Page Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES" Id="PG_207169103.p" ParentPage="PG_1353908087.p"/>
+		<Page Name="Convenios internacionales" Id="PG_1530167501.p" ParentPage="PG_0.p"/>
+		<Page Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES" Id="PG_32629007.p" ParentPage="PG_1530167501.p"/>
+		<Page Name="PRESIDENCIA DEL CONSEJO" Id="PG_535361379.p" ParentPage="PG_1530167501.p"/>
+		<Page Name="DIRECCIÓN DE VINCULACIÓN Y COOPERACIÓN INTERNACIONAL" Id="PG_1691933702.p" ParentPage="PG_1530167501.p"/>
+		<Page Name="DIRECCIÓN JURÍDICA" Id="PG_1896077839.p" ParentPage="PG_1530167501.p"/>
+		<Page Name="Desarrollar cursos internacionales de especialización" Id="PG_1585497704.p" ParentPage="PG_0.p"/>
+		<Page Name="SOCIO ESTRATÉGICO" Id="PG_241141945.p" ParentPage="PG_1585497704.p"/>
+		<Page Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES" Id="PG_609057599.p" ParentPage="PG_1585497704.p"/>
+		<Page Name="SUBDIRECCIÓN DE GESTIÓN DE PROGRAMAS DE CAPACITACIÓN INTERNACIONAL" Id="PG_1434963207.p" ParentPage="PG_1585497704.p"/>
+		<Page Name="PRESIDENCIA DEL CONSEJO" Id="PG_1884964830.p" ParentPage="PG_1585497704.p"/>
+		<Page Name="Desarrollar talleres internacionales de adminsitración electoral" Id="PG_1622003810.p" ParentPage="PG_0.p"/>
+		<Page Name="PRESIDENCIA DEL CONSEJO" Id="PG_33244302.p" ParentPage="PG_1622003810.p"/>
+		<Page Name="SUBDIRECCIÓN DE LOGÍSTICA Y SEGUIMIENTO ADMINISTRATIVO" Id="PG_410479892.p" ParentPage="PG_1622003810.p"/>
+		<Page Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES" Id="PG_1421399849.p" ParentPage="PG_1622003810.p"/>
+		<Page Name="SUBDIRECCIÓN DE GESTIÓN DE PROGRAMAS DE CAPACITACIÓN INTERNACIONAL" Id="PG_1518527083.p" ParentPage="PG_1622003810.p"/>
+		<Page Name="Realizar eventos institucionales internacionales" Id="PG_1626006973.p" ParentPage="PG_0.p"/>
+		<Page Name="DEPARTAMENTO DE COOPERACIÓN Y SEGUIMIENTO INTERNACIONAL" Id="PG_474430469.p" ParentPage="PG_1626006973.p"/>
+		<Page Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES" Id="PG_554802074.p" ParentPage="PG_1626006973.p"/>
+		<Page Name="PRESIDENCIA DEL CONSEJO" Id="PG_1137373344.p" ParentPage="PG_1626006973.p"/>
+		<Page Name="DIRECCIÓN EJECUTIVA DE ADMINISTRACIÓN" Id="PG_1269508883.p" ParentPage="PG_1626006973.p"/>
+		<Page Name="DIRECCIÓN DE VINCULACIÓN Y COOPERACIÓN INTERNACIONAL" Id="PG_2140918283.p" ParentPage="PG_1626006973.p"/>
+		<Page Name="Investigación electoral comparada" Id="PG_1645794199.p" ParentPage="PG_0.p"/>
+		<Page Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES" Id="PG_664007199.p" ParentPage="PG_1645794199.p"/>
+		<Page Name="ORGANISMOS INTITUCIONALES ELECTORALES ESPECIALIZADOS" Id="PG_1115307029.p" ParentPage="PG_1645794199.p"/>
+		<Page Name="DIRECCIÓN EJECUTIVA DE ADMINISTRACIÓN" Id="PG_1211277422.p" ParentPage="PG_1645794199.p"/>
+		<Page Name="COMITÉ EDITORIAL" Id="PG_1233538784.p" ParentPage="PG_1645794199.p"/>
+		<Page Name="COORDINACIÓN NACIONAL DE COMUNICACIÓN SOCIAL" Id="PG_1246606325.p" ParentPage="PG_1645794199.p"/>
+		<Page Name="PRESIDENCIA DEL CONSEJO GENERAL" Id="PG_1383471747.p" ParentPage="PG_1645794199.p"/>
+		<Page Name="Promocionar actividades electorales dentro del ámbito internacional con OPLE´S" Id="PG_1722283234.p" ParentPage="PG_0.p"/>
+		<Page Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES " Id="PG_355936662.p" ParentPage="PG_1722283234.p"/>
+		<Page Name="ORGANISMO PÚBLICO LOCAL ELECTORAL" Id="PG_811529542.p" ParentPage="PG_1722283234.p"/>
+		<Page Name="PRESIDENCIA DEL CONSEJO" Id="PG_2097492807.p" ParentPage="PG_1722283234.p"/>
+		<Page Name="Elaborar carpetas informativas" Id="PG_1921970875.p" ParentPage="PG_0.p"/>
+		<Page Name="DIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES" Id="PG_1006496608.p" ParentPage="PG_1921970875.p"/>
+		<Page Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES" Id="PG_1841773437.p" ParentPage="PG_1921970875.p"/>
+		<Page Name="FUNCIONARIO" Id="PG_1882249166.p" ParentPage="PG_1921970875.p"/>
+	</Pages>
+	<Pools>
+		<Pool Id="PG_683494101" Name="CAI" Process="PG_683494101.1" BoundaryVisible="false">
+			<Lanes>
+				<Lane Id="PG_683494101.0" Name="DefLane_CAI" ParentLane="PG_683494101">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="1200.0" Width="1920.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+		</Pool>
+		<Pool Id="PG_4224597.l" Name="Desarrollar jornadas interamericanas electorales en el INE" Process="PG_4224597.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_4224597.0" Name="DefLane_Desarrollar jornadas interamericanas electorales en el INE" ParentLane="PG_4224597.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="100" Width="160" ToolId="QPR_PG" PageId="PG_0.p">
+					<Coordinates XCoordinate="350" YCoordinate="335"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_457493914.l" Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES" Process="PG_457493914.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_457493914.0" Name="DefLane_COORDINACIÓN DE ASUNTOS INTERNACIONALES" ParentLane="PG_457493914.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="550" Width="6160" ToolId="QPR_PG" PageId="PG_4224597.p">
+					<Coordinates XCoordinate="130" YCoordinate="375"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_912008364.l" Name="ORGANIZACIÓN DE ESTADOS AMERICANOS" Process="PG_912008364.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_912008364.0" Name="DefLane_ORGANIZACIÓN DE ESTADOS AMERICANOS" ParentLane="PG_912008364.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="480" Width="6160" ToolId="QPR_PG" PageId="PG_4224597.p">
+					<Coordinates XCoordinate="130" YCoordinate="925"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1209520792.l" Name="PRESIDENCIA DEL CONSEJO" Process="PG_1209520792.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1209520792.0" Name="DefLane_PRESIDENCIA DEL CONSEJO" ParentLane="PG_1209520792.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="320" Width="6160" ToolId="QPR_PG" PageId="PG_4224597.p">
+					<Coordinates XCoordinate="130" YCoordinate="1405"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_141811795.l" Name="Difusión informativa" Process="PG_141811795.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_141811795.0" Name="DefLane_Difusión informativa" ParentLane="PG_141811795.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="100" Width="160" ToolId="QPR_PG" PageId="PG_0.p">
+					<Coordinates XCoordinate="2180" YCoordinate="330"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_107051910.l" Name="OFICIALÍA DE PARTES" Process="PG_107051910.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_107051910.0" Name="DefLane_OFICIALÍA DE PARTES" ParentLane="PG_107051910.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="270" Width="2420" ToolId="QPR_PG" PageId="PG_141811795.p">
+					<Coordinates XCoordinate="125" YCoordinate="995"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_613966251.l" Name="DIRECCIÓN DE VINCULACIÓN Y COOPERACIÓN INTERNACIONAL" Process="PG_613966251.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_613966251.0" Name="DefLane_DIRECCIÓN DE VINCULACIÓN Y COOPERACIÓN INTERNACIONAL" ParentLane="PG_613966251.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="400" Width="2420" ToolId="QPR_PG" PageId="PG_141811795.p">
+					<Coordinates XCoordinate="125" YCoordinate="595"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1496250194.l" Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES" Process="PG_1496250194.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1496250194.0" Name="DefLane_COORDINACIÓN DE ASUNTOS INTERNACIONALES" ParentLane="PG_1496250194.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="560" Width="2420" ToolId="QPR_PG" PageId="PG_141811795.p">
+					<Coordinates XCoordinate="125" YCoordinate="35"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_412794670.l" Name="Red de conocimientos electorales ACE" Process="PG_412794670.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_412794670.0" Name="DefLane_Red de conocimientos electorales ACE" ParentLane="PG_412794670.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="100" Width="160" ToolId="QPR_PG" PageId="PG_0.p">
+					<Coordinates XCoordinate="1365" YCoordinate="200"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_295440332.l" Name="Comparar datos" Process="PG_295440332.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_295440332.0" Name="DefLane_Comparar datos" ParentLane="PG_295440332.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="100" Width="160" ToolId="QPR_PG" PageId="PG_412794670.p">
+					<Coordinates XCoordinate="375" YCoordinate="385"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_202798310.l" Name="DIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES" Process="PG_202798310.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_202798310.0" Name="DefLane_DIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES" ParentLane="PG_202798310.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="450" Width="3545" ToolId="QPR_PG" PageId="PG_295440332.p">
+					<Coordinates XCoordinate="-100" YCoordinate="145"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1284984934.l" Name="SUBDIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES" Process="PG_1284984934.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1284984934.0" Name="DefLane_SUBDIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES" ParentLane="PG_1284984934.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="685" Width="3545" ToolId="QPR_PG" PageId="PG_295440332.p">
+					<Coordinates XCoordinate="-100" YCoordinate="595"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_803598191.l" Name="Traducir contenidos" Process="PG_803598191.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_803598191.0" Name="DefLane_Traducir contenidos" ParentLane="PG_803598191.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="100" Width="160" ToolId="QPR_PG" PageId="PG_412794670.p">
+					<Coordinates XCoordinate="595" YCoordinate="380"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_207093593.l" Name="DIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES" Process="PG_207093593.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_207093593.0" Name="DefLane_DIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES" ParentLane="PG_207093593.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="430" Width="3600" ToolId="QPR_PG" PageId="PG_803598191.p">
+					<Coordinates XCoordinate="65" YCoordinate="175"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1634373312.l" Name="SUBDIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES" Process="PG_1634373312.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1634373312.0" Name="DefLane_SUBDIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES" ParentLane="PG_1634373312.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+				<Lane Id="PG_244573927" Name="ENCARGADO DEL PROYECTO ACE" ParentLane="PG_1634373312.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="240" ToolId="QPR_PG" Width="0" PageId="PG_1634373312.p">
+							<Coordinates XCoordinate="32700" YCoordinate="320"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="650" Width="3600" ToolId="QPR_PG" PageId="PG_803598191.p">
+					<Coordinates XCoordinate="65" YCoordinate="605"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1080529818.l" Name="Materiales electorales" Process="PG_1080529818.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1080529818.0" Name="DefLane_Materiales electorales" ParentLane="PG_1080529818.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="100" Width="160" ToolId="QPR_PG" PageId="PG_412794670.p">
+					<Coordinates XCoordinate="170" YCoordinate="385"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_140741949.l" Name="SUBDIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES" Process="PG_140741949.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_140741949.0" Name="DefLane_SUBDIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES" ParentLane="PG_140741949.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="610" Width="3880" ToolId="QPR_PG" PageId="PG_1080529818.p">
+					<Coordinates XCoordinate="115" YCoordinate="995"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1748744306.l" Name="DIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES" Process="PG_1748744306.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1748744306.0" Name="DefLane_DIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES" ParentLane="PG_1748744306.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="425" Width="3880" ToolId="QPR_PG" PageId="PG_1080529818.p">
+					<Coordinates XCoordinate="115" YCoordinate="570"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_634963827.l" Name="Desarrollar pasantías de organismos de administración electoral en el INE" Process="PG_634963827.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_634963827.0" Name="DefLane_Desarrollar pasantías de organismos de administración electoral en el INE" ParentLane="PG_634963827.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="100" Width="160" ToolId="QPR_PG" PageId="PG_0.p">
+					<Coordinates XCoordinate="150" YCoordinate="335"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_560173022.l" Name="SUBDIRECCIÓN DE GESTIÓN DE PROGRAMAS DE CAPACITACIÓN INTERNACIONAL" Process="PG_560173022.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_560173022.0" Name="DefLane_SUBDIRECCIÓN DE GESTIÓN DE PROGRAMAS DE CAPACITACIÓN INTERNACIONAL" ParentLane="PG_560173022.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="550" Width="5700" ToolId="QPR_PG" PageId="PG_634963827.p">
+					<Coordinates XCoordinate="215" YCoordinate="-775"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_783782859.l" Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES" Process="PG_783782859.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_783782859.0" Name="DefLane_COORDINACIÓN DE ASUNTOS INTERNACIONALES" ParentLane="PG_783782859.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="560" Width="5700" ToolId="QPR_PG" PageId="PG_634963827.p">
+					<Coordinates XCoordinate="215" YCoordinate="-1335"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1298949815.l" Name="PRESIDENCIA DEL CONSEJO" Process="PG_1298949815.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1298949815.0" Name="DefLane_PRESIDENCIA DEL CONSEJO" ParentLane="PG_1298949815.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="335" Width="5700" ToolId="QPR_PG" PageId="PG_634963827.p">
+					<Coordinates XCoordinate="215" YCoordinate="185"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1984102242.l" Name="SUBDIRECCIÓN DE LOGÍSTICA Y SEGUIMIENTO ADMINISTRATIVO" Process="PG_1984102242.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1984102242.0" Name="DefLane_SUBDIRECCIÓN DE LOGÍSTICA Y SEGUIMIENTO ADMINISTRATIVO" ParentLane="PG_1984102242.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="410" Width="5700" ToolId="QPR_PG" PageId="PG_634963827.p">
+					<Coordinates XCoordinate="215" YCoordinate="-225"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_723036834.l" Name="Vincular instituciones susceptibles para colaborar en el VMRE" Process="PG_723036834.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_723036834.0" Name="DefLane_Vincular instituciones susceptibles para colaborar en el VMRE" ParentLane="PG_723036834.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="100" Width="160" ToolId="QPR_PG" PageId="PG_0.p">
+					<Coordinates XCoordinate="2380" YCoordinate="330"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_74725720.l" Name="OFICINA DE VINCULACIÓN ELECTORAL DE LOS MEXICANOS EN EL EXTRANJERO" Process="PG_74725720.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_74725720.0" Name="DefLane_OFICINA DE VINCULACIÓN ELECTORAL DE LOS MEXICANOS EN EL EXTRANJERO" ParentLane="PG_74725720.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="460" Width="2705" ToolId="QPR_PG" PageId="PG_723036834.p">
+					<Coordinates XCoordinate="75" YCoordinate="20"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1797138212.l" Name="INSTITUCIÓN SUSCEPTIBLE DE COLABORAR EN EL VMRE" Process="PG_1797138212.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1797138212.0" Name="DefLane_INSTITUCIÓN SUSCEPTIBLE DE COLABORAR EN EL VMRE" ParentLane="PG_1797138212.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="400" Width="2700" ToolId="QPR_PG" PageId="PG_723036834.p">
+					<Coordinates XCoordinate="80" YCoordinate="480"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_814884864.l" Name="Misiones internacionales" Process="PG_814884864.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_814884864.0" Name="DefLane_Misiones internacionales" ParentLane="PG_814884864.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="100" Width="160" ToolId="QPR_PG" PageId="PG_0.p">
+					<Coordinates XCoordinate="1785" YCoordinate="325"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_167850084.l" Name="PRESIDENCIA DEL CONSEJO" Process="PG_167850084.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_167850084.0" Name="DefLane_PRESIDENCIA DEL CONSEJO" ParentLane="PG_167850084.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="360" Width="4200" ToolId="QPR_PG" PageId="PG_814884864.p">
+					<Coordinates XCoordinate="160" YCoordinate="410"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_418659253.l" Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES" Process="PG_418659253.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_418659253.0" Name="DefLane_COORDINACIÓN DE ASUNTOS INTERNACIONALES" ParentLane="PG_418659253.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="580" Width="4200" ToolId="QPR_PG" PageId="PG_814884864.p">
+					<Coordinates XCoordinate="160" YCoordinate="-170"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_780187018.l" Name="DIRECCIÓN DE VINCULACIÓN Y COOPERACIÓN INTERNACIONAL" Process="PG_780187018.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_780187018.0" Name="DefLane_DIRECCIÓN DE VINCULACIÓN Y COOPERACIÓN INTERNACIONAL" ParentLane="PG_780187018.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="445" Width="4200" ToolId="QPR_PG" PageId="PG_814884864.p">
+					<Coordinates XCoordinate="160" YCoordinate="770"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1522780661.l" Name="PERSONA COMISIONADA" Process="PG_1522780661.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1522780661.0" Name="DefLane_PERSONA COMISIONADA" ParentLane="PG_1522780661.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="380" Width="4200" ToolId="QPR_PG" PageId="PG_814884864.p">
+					<Coordinates XCoordinate="160" YCoordinate="1640"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_2046528516.l" Name="SUBDIRECCIÓN DE VINCULACIÓN CON ORGANISMOS INTERNACIONALES" Process="PG_2046528516.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_2046528516.0" Name="DefLane_SUBDIRECCIÓN DE VINCULACIÓN CON ORGANISMOS INTERNACIONALES" ParentLane="PG_2046528516.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="425" Width="4200" ToolId="QPR_PG" PageId="PG_814884864.p">
+					<Coordinates XCoordinate="160" YCoordinate="1215"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_939649000.l" Name="Base de datos global" Process="PG_939649000.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_939649000.0" Name="DefLane_Base de datos global" ParentLane="PG_939649000.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="100" Width="160" ToolId="QPR_PG" PageId="PG_0.p">
+					<Coordinates XCoordinate="970" YCoordinate="335"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_708147967.l" Name="SUBDIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES " Process="PG_708147967.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_708147967.0" Name="DefLane_SUBDIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES " ParentLane="PG_708147967.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="445" Width="3225" ToolId="QPR_PG" PageId="PG_939649000.p">
+					<Coordinates XCoordinate="85" YCoordinate="1290"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_863797061.l" Name="DIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES" Process="PG_863797061.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_863797061.0" Name="DefLane_DIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES" ParentLane="PG_863797061.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="655" Width="3230" ToolId="QPR_PG" PageId="PG_939649000.p">
+					<Coordinates XCoordinate="80" YCoordinate="225"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1327068000.l" Name="JEFATURA DE DEPARTAMENTO DE INVESTIGACIÓN" Process="PG_1327068000.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1327068000.0" Name="DefLane_JEFATURA DE DEPARTAMENTO DE INVESTIGACIÓN" ParentLane="PG_1327068000.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="470" Width="3225" ToolId="QPR_PG" PageId="PG_939649000.p">
+					<Coordinates XCoordinate="85" YCoordinate="1735"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1760814792.l" Name="DEPARTAMENTO DE INVESTIGACIÓN" Process="PG_1760814792.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1760814792.0" Name="DefLane_DEPARTAMENTO DE INVESTIGACIÓN" ParentLane="PG_1760814792.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="410" Width="3230" ToolId="QPR_PG" PageId="PG_939649000.p">
+					<Coordinates XCoordinate="80" YCoordinate="880"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1189142718.l" Name="Publicar contenido referente al VMRE en diferentes plataformas digitales" Process="PG_1189142718.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1189142718.0" Name="DefLane_Publicar contenido referente al VMRE en diferentes plataformas digitales" ParentLane="PG_1189142718.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="100" Width="160" ToolId="QPR_PG" PageId="PG_0.p">
+					<Coordinates XCoordinate="2580" YCoordinate="330"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1040528894.l" Name="TITULAR DE LA COORDINACIÓN DE ASUNTOS INTERNACIONALES U OVEME" Process="PG_1040528894.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1040528894.0" Name="DefLane_TITULAR DE LA COORDINACIÓN DE ASUNTOS INTERNACIONALES U OVEME" ParentLane="PG_1040528894.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="495" Width="1840" ToolId="QPR_PG" PageId="PG_1189142718.p">
+					<Coordinates XCoordinate="-100" YCoordinate="610"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1143487544.l" Name="OFICINA DE VINCULACIÓN ELECTORAL DE LOS MEXICANOS EN EL EXTRANJERO" Process="PG_1143487544.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1143487544.0" Name="DefLane_OFICINA DE VINCULACIÓN ELECTORAL DE LOS MEXICANOS EN EL EXTRANJERO" ParentLane="PG_1143487544.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="580" Width="1840" ToolId="QPR_PG" PageId="PG_1189142718.p">
+					<Coordinates XCoordinate="-100" YCoordinate="30"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1353908087.l" Name="Atención a solicitudes de apoyo y colaborar con OPLE´S" Process="PG_1353908087.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1353908087.0" Name="DefLane_Atención a solicitudes de apoyo y colaborar con OPLE´S" ParentLane="PG_1353908087.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="100" Width="160" ToolId="QPR_PG" PageId="PG_0.p">
+					<Coordinates XCoordinate="2790" YCoordinate="330"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_193632660.l" Name="PRESIDENCIA DEL CONSEJO" Process="PG_193632660.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_193632660.0" Name="DefLane_PRESIDENCIA DEL CONSEJO" ParentLane="PG_193632660.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="355" Width="2985" ToolId="QPR_PG" PageId="PG_1353908087.p">
+					<Coordinates XCoordinate="80" YCoordinate="675"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_207169103.l" Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES" Process="PG_207169103.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_207169103.0" Name="DefLane_COORDINACIÓN DE ASUNTOS INTERNACIONALES" ParentLane="PG_207169103.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="570" Width="2985" ToolId="QPR_PG" PageId="PG_1353908087.p">
+					<Coordinates XCoordinate="80" YCoordinate="105"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1530167501.l" Name="Convenios internacionales" Process="PG_1530167501.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1530167501.0" Name="DefLane_Convenios internacionales" ParentLane="PG_1530167501.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="100" Width="160" ToolId="QPR_PG" PageId="PG_0.p">
+					<Coordinates XCoordinate="1985" YCoordinate="325"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_32629007.l" Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES" Process="PG_32629007.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_32629007.0" Name="DefLane_COORDINACIÓN DE ASUNTOS INTERNACIONALES" ParentLane="PG_32629007.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="560" Width="4775" ToolId="QPR_PG" PageId="PG_1530167501.p">
+					<Coordinates XCoordinate="170" YCoordinate="-240"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_535361379.l" Name="PRESIDENCIA DEL CONSEJO" Process="PG_535361379.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_535361379.0" Name="DefLane_PRESIDENCIA DEL CONSEJO" ParentLane="PG_535361379.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="325" Width="4775" ToolId="QPR_PG" PageId="PG_1530167501.p">
+					<Coordinates XCoordinate="170" YCoordinate="780"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1691933702.l" Name="DIRECCIÓN DE VINCULACIÓN Y COOPERACIÓN INTERNACIONAL" Process="PG_1691933702.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1691933702.0" Name="DefLane_DIRECCIÓN DE VINCULACIÓN Y COOPERACIÓN INTERNACIONAL" ParentLane="PG_1691933702.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="460" Width="4775" ToolId="QPR_PG" PageId="PG_1530167501.p">
+					<Coordinates XCoordinate="170" YCoordinate="320"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1896077839.l" Name="DIRECCIÓN JURÍDICA" Process="PG_1896077839.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1896077839.0" Name="DefLane_DIRECCIÓN JURÍDICA" ParentLane="PG_1896077839.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="295" Width="4775" ToolId="QPR_PG" PageId="PG_1530167501.p">
+					<Coordinates XCoordinate="170" YCoordinate="1105"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1585497704.l" Name="Desarrollar cursos internacionales de especialización" Process="PG_1585497704.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1585497704.0" Name="DefLane_Desarrollar cursos internacionales de especialización" ParentLane="PG_1585497704.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="100" Width="160" ToolId="QPR_PG" PageId="PG_0.p">
+					<Coordinates XCoordinate="560" YCoordinate="335"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_241141945.l" Name="SOCIO ESTRATÉGICO" Process="PG_241141945.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_241141945.0" Name="DefLane_SOCIO ESTRATÉGICO" ParentLane="PG_241141945.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="335" Width="4655" ToolId="QPR_PG" PageId="PG_1585497704.p">
+					<Coordinates XCoordinate="100" YCoordinate="-800"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_609057599.l" Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES" Process="PG_609057599.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_609057599.0" Name="DefLane_COORDINACIÓN DE ASUNTOS INTERNACIONALES" ParentLane="PG_609057599.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="540" Width="4655" ToolId="QPR_PG" PageId="PG_1585497704.p">
+					<Coordinates XCoordinate="100" YCoordinate="80"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1434963207.l" Name="SUBDIRECCIÓN DE GESTIÓN DE PROGRAMAS DE CAPACITACIÓN INTERNACIONAL" Process="PG_1434963207.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1434963207.0" Name="DefLane_SUBDIRECCIÓN DE GESTIÓN DE PROGRAMAS DE CAPACITACIÓN INTERNACIONAL" ParentLane="PG_1434963207.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="545" Width="4655" ToolId="QPR_PG" PageId="PG_1585497704.p">
+					<Coordinates XCoordinate="100" YCoordinate="-465"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1884964830.l" Name="PRESIDENCIA DEL CONSEJO" Process="PG_1884964830.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1884964830.0" Name="DefLane_PRESIDENCIA DEL CONSEJO" ParentLane="PG_1884964830.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="310" Width="4655" ToolId="QPR_PG" PageId="PG_1585497704.p">
+					<Coordinates XCoordinate="100" YCoordinate="620"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1622003810.l" Name="Desarrollar talleres internacionales de adminsitración electoral" Process="PG_1622003810.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1622003810.0" Name="DefLane_Desarrollar talleres internacionales de adminsitración electoral" ParentLane="PG_1622003810.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="100" Width="160" ToolId="QPR_PG" PageId="PG_0.p">
+					<Coordinates XCoordinate="-50" YCoordinate="335"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_33244302.l" Name="PRESIDENCIA DEL CONSEJO" Process="PG_33244302.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_33244302.0" Name="DefLane_PRESIDENCIA DEL CONSEJO" ParentLane="PG_33244302.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="325" Width="5525" ToolId="QPR_PG" PageId="PG_1622003810.p">
+					<Coordinates XCoordinate="105" YCoordinate="30"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_410479892.l" Name="SUBDIRECCIÓN DE LOGÍSTICA Y SEGUIMIENTO ADMINISTRATIVO" Process="PG_410479892.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_410479892.0" Name="DefLane_SUBDIRECCIÓN DE LOGÍSTICA Y SEGUIMIENTO ADMINISTRATIVO" ParentLane="PG_410479892.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="500" Width="5525" ToolId="QPR_PG" PageId="PG_1622003810.p">
+					<Coordinates XCoordinate="105" YCoordinate="-470"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1421399849.l" Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES" Process="PG_1421399849.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1421399849.0" Name="DefLane_COORDINACIÓN DE ASUNTOS INTERNACIONALES" ParentLane="PG_1421399849.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="560" Width="5525" ToolId="QPR_PG" PageId="PG_1622003810.p">
+					<Coordinates XCoordinate="105" YCoordinate="-1515"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1518527083.l" Name="SUBDIRECCIÓN DE GESTIÓN DE PROGRAMAS DE CAPACITACIÓN INTERNACIONAL" Process="PG_1518527083.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1518527083.0" Name="DefLane_SUBDIRECCIÓN DE GESTIÓN DE PROGRAMAS DE CAPACITACIÓN INTERNACIONAL" ParentLane="PG_1518527083.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="485" Width="5525" ToolId="QPR_PG" PageId="PG_1622003810.p">
+					<Coordinates XCoordinate="105" YCoordinate="-955"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1626006973.l" Name="Realizar eventos institucionales internacionales" Process="PG_1626006973.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1626006973.0" Name="DefLane_Realizar eventos institucionales internacionales" ParentLane="PG_1626006973.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="100" Width="160" ToolId="QPR_PG" PageId="PG_0.p">
+					<Coordinates XCoordinate="1575" YCoordinate="330"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_474430469.l" Name="DEPARTAMENTO DE COOPERACIÓN Y SEGUIMIENTO INTERNACIONAL" Process="PG_474430469.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_474430469.0" Name="DefLane_DEPARTAMENTO DE COOPERACIÓN Y SEGUIMIENTO INTERNACIONAL" ParentLane="PG_474430469.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="465" Width="5160" ToolId="QPR_PG" PageId="PG_1626006973.p">
+					<Coordinates XCoordinate="120" YCoordinate="765"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_554802074.l" Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES" Process="PG_554802074.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_554802074.0" Name="DefLane_COORDINACIÓN DE ASUNTOS INTERNACIONALES" ParentLane="PG_554802074.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="545" Width="5160" ToolId="QPR_PG" PageId="PG_1626006973.p">
+					<Coordinates XCoordinate="120" YCoordinate="-145"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1137373344.l" Name="PRESIDENCIA DEL CONSEJO" Process="PG_1137373344.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1137373344.0" Name="DefLane_PRESIDENCIA DEL CONSEJO" ParentLane="PG_1137373344.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="365" Width="5160" ToolId="QPR_PG" PageId="PG_1626006973.p">
+					<Coordinates XCoordinate="120" YCoordinate="400"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1269508883.l" Name="DIRECCIÓN EJECUTIVA DE ADMINISTRACIÓN" Process="PG_1269508883.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1269508883.0" Name="DefLane_DIRECCIÓN EJECUTIVA DE ADMINISTRACIÓN" ParentLane="PG_1269508883.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="350" Width="5160" ToolId="QPR_PG" PageId="PG_1626006973.p">
+					<Coordinates XCoordinate="120" YCoordinate="1670"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_2140918283.l" Name="DIRECCIÓN DE VINCULACIÓN Y COOPERACIÓN INTERNACIONAL" Process="PG_2140918283.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_2140918283.0" Name="DefLane_DIRECCIÓN DE VINCULACIÓN Y COOPERACIÓN INTERNACIONAL" ParentLane="PG_2140918283.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="440" Width="5160" ToolId="QPR_PG" PageId="PG_1626006973.p">
+					<Coordinates XCoordinate="120" YCoordinate="1230"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1645794199.l" Name="Investigación electoral comparada" Process="PG_1645794199.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1645794199.0" Name="DefLane_Investigación electoral comparada" ParentLane="PG_1645794199.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="100" Width="160" ToolId="QPR_PG" PageId="PG_0.p">
+					<Coordinates XCoordinate="1170" YCoordinate="340"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_664007199.l" Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES" Process="PG_664007199.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_664007199.0" Name="DefLane_COORDINACIÓN DE ASUNTOS INTERNACIONALES" ParentLane="PG_664007199.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="565" Width="6630" ToolId="QPR_PG" PageId="PG_1645794199.p">
+					<Coordinates XCoordinate="70" YCoordinate="-1500"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1115307029.l" Name="ORGANISMOS INTITUCIONALES ELECTORALES ESPECIALIZADOS" Process="PG_1115307029.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1115307029.0" Name="DefLane_ORGANISMOS INTITUCIONALES ELECTORALES ESPECIALIZADOS" ParentLane="PG_1115307029.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="540" Width="6630" ToolId="QPR_PG" PageId="PG_1645794199.p">
+					<Coordinates XCoordinate="70" YCoordinate="640"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1211277422.l" Name="DIRECCIÓN EJECUTIVA DE ADMINISTRACIÓN" Process="PG_1211277422.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1211277422.0" Name="DefLane_DIRECCIÓN EJECUTIVA DE ADMINISTRACIÓN" ParentLane="PG_1211277422.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="545" Width="6630" ToolId="QPR_PG" PageId="PG_1645794199.p">
+					<Coordinates XCoordinate="70" YCoordinate="-935"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1233538784.l" Name="COMITÉ EDITORIAL" Process="PG_1233538784.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1233538784.0" Name="DefLane_COMITÉ EDITORIAL" ParentLane="PG_1233538784.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="310" Width="6630" ToolId="QPR_PG" PageId="PG_1645794199.p">
+					<Coordinates XCoordinate="70" YCoordinate="1180"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1246606325.l" Name="COORDINACIÓN NACIONAL DE COMUNICACIÓN SOCIAL" Process="PG_1246606325.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1246606325.0" Name="DefLane_COORDINACIÓN NACIONAL DE COMUNICACIÓN SOCIAL" ParentLane="PG_1246606325.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="605" Width="6630" ToolId="QPR_PG" PageId="PG_1645794199.p">
+					<Coordinates XCoordinate="70" YCoordinate="-390"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1383471747.l" Name="PRESIDENCIA DEL CONSEJO GENERAL" Process="PG_1383471747.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1383471747.0" Name="DefLane_PRESIDENCIA DEL CONSEJO GENERAL" ParentLane="PG_1383471747.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="425" Width="6630" ToolId="QPR_PG" PageId="PG_1645794199.p">
+					<Coordinates XCoordinate="70" YCoordinate="215"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1722283234.l" Name="Promocionar actividades electorales dentro del ámbito internacional con OPLE´S" Process="PG_1722283234.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1722283234.0" Name="DefLane_Promocionar actividades electorales dentro del ámbito internacional con OPLE´S" ParentLane="PG_1722283234.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="100" Width="160" ToolId="QPR_PG" PageId="PG_0.p">
+					<Coordinates XCoordinate="3000" YCoordinate="330"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_355936662.l" Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES " Process="PG_355936662.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_355936662.0" Name="DefLane_COORDINACIÓN DE ASUNTOS INTERNACIONALES " ParentLane="PG_355936662.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="600" Width="2640" ToolId="QPR_PG" PageId="PG_1722283234.p">
+					<Coordinates XCoordinate="95" YCoordinate="85"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_811529542.l" Name="ORGANISMO PÚBLICO LOCAL ELECTORAL" Process="PG_811529542.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_811529542.0" Name="DefLane_ORGANISMO PÚBLICO LOCAL ELECTORAL" ParentLane="PG_811529542.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="440" Width="2640" ToolId="QPR_PG" PageId="PG_1722283234.p">
+					<Coordinates XCoordinate="95" YCoordinate="1010"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_2097492807.l" Name="PRESIDENCIA DEL CONSEJO" Process="PG_2097492807.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_2097492807.0" Name="DefLane_PRESIDENCIA DEL CONSEJO" ParentLane="PG_2097492807.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="325" Width="2640" ToolId="QPR_PG" PageId="PG_1722283234.p">
+					<Coordinates XCoordinate="95" YCoordinate="685"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1921970875.l" Name="Elaborar carpetas informativas" Process="PG_1921970875.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1921970875.0" Name="DefLane_Elaborar carpetas informativas" ParentLane="PG_1921970875.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="100" Width="160" ToolId="QPR_PG" PageId="PG_0.p">
+					<Coordinates XCoordinate="770" YCoordinate="335"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1006496608.l" Name="DIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES" Process="PG_1006496608.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1006496608.0" Name="DefLane_DIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES" ParentLane="PG_1006496608.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+				<Lane Id="PG_1160954222" Name="JEFATURA DE DEPARTAMENTO DE ANÁLISIS INTERNACIONAL " ParentLane="PG_1006496608.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="290" ToolId="QPR_PG" Width="0" PageId="PG_1006496608.p">
+							<Coordinates XCoordinate="32700" YCoordinate="385"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="685" Width="3205" ToolId="QPR_PG" PageId="PG_1921970875.p">
+					<Coordinates XCoordinate="85" YCoordinate="870"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1841773437.l" Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES" Process="PG_1841773437.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1841773437.0" Name="DefLane_COORDINACIÓN DE ASUNTOS INTERNACIONALES" ParentLane="PG_1841773437.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+				<Lane Id="PG_597997474" Name="ÁREA INTERNA" ParentLane="PG_1841773437.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="360" ToolId="QPR_PG" Width="0" PageId="PG_1841773437.p">
+							<Coordinates XCoordinate="32700" YCoordinate="-100"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="785" Width="3205" ToolId="QPR_PG" PageId="PG_1921970875.p">
+					<Coordinates XCoordinate="85" YCoordinate="85"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+		<Pool Id="PG_1882249166.l" Name="FUNCIONARIO" Process="PG_1882249166.1" BoundaryVisible="true">
+			<Lanes>
+				<Lane Id="PG_1882249166.0" Name="DefLane_FUNCIONARIO" ParentLane="PG_1882249166.l">
+					<NodeGraphicsInfos>
+						<NodeGraphicsInfo Height="200.0" ToolId="QPR_PG">
+							<Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+						</NodeGraphicsInfo>
+					</NodeGraphicsInfos>
+				</Lane>
+			</Lanes>
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo Height="340" Width="3205" ToolId="QPR_PG" PageId="PG_1921970875.p">
+					<Coordinates XCoordinate="85" YCoordinate="1555"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Pool>
+	</Pools>
+	<MessageFlows>
+	</MessageFlows>
+	<Artifacts>
+		<Artifact ArtifactType="Annotation" Id="PG_480114728" TextAnnotation="Para donde se va?" Name="Para donde se va?">
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo ToolId="QPR_PG" IsVisible="true" Height="80" Width="80" LaneId="PG_1383471747.0" PageId="PG_1383471747.p">
+					<Coordinates XCoordinate="1805" YCoordinate="185"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Artifact>
+		<Artifact ArtifactType="Annotation" Id="PG_1277036444" TextAnnotation="Qué sucede?" Name="Qué sucede?">
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo ToolId="QPR_PG" IsVisible="true" Height="80" Width="80" LaneId="PG_1233538784.0" PageId="PG_1233538784.p">
+					<Coordinates XCoordinate="4015" YCoordinate="160"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Artifact>
+		<Artifact ArtifactType="Annotation" Id="PG_1288951445" TextAnnotation="Checar terminación" Name="Checar terminación">
+			<NodeGraphicsInfos>
+				<NodeGraphicsInfo ToolId="QPR_PG" IsVisible="true" Height="80" Width="80" LaneId="PG_683494101.0" PageId="PG_0.p">
+					<Coordinates XCoordinate="1210" YCoordinate="450"/>
+				</NodeGraphicsInfo>
+			</NodeGraphicsInfos>
+		</Artifact>
+	</Artifacts>
+	<WorkflowProcesses>
+		<WorkflowProcess Id="PG_683494101.1" Name="CAI">
+			<ProcessHeader/>
+			<RedefinableHeader/>
+			<Participants>
+			</Participants>
+			<ActivitySets>
+			</ActivitySets>
+			<Activities>
+			</Activities>
+			<Transitions>
+			</Transitions>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_4224597.1" Name="Desarrollar jornadas interamericanas electorales en el INE">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_457493914.1" Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_912008364.1" Name="ORGANIZACIÓN DE ESTADOS AMERICANOS">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1209520792.1" Name="PRESIDENCIA DEL CONSEJO">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_141811795.1" Name="Difusión informativa">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_107051910.1" Name="OFICIALÍA DE PARTES">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_613966251.1" Name="DIRECCIÓN DE VINCULACIÓN Y COOPERACIÓN INTERNACIONAL">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1496250194.1" Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_412794670.1" Name="Red de conocimientos electorales ACE">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_295440332.1" Name="Comparar datos">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_202798310.1" Name="DIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1284984934.1" Name="SUBDIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_803598191.1" Name="Traducir contenidos">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_207093593.1" Name="DIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1634373312.1" Name="SUBDIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1080529818.1" Name="Materiales electorales">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_140741949.1" Name="SUBDIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1748744306.1" Name="DIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_634963827.1" Name="Desarrollar pasantías de organismos de administración electoral en el INE">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_560173022.1" Name="SUBDIRECCIÓN DE GESTIÓN DE PROGRAMAS DE CAPACITACIÓN INTERNACIONAL">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_783782859.1" Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1298949815.1" Name="PRESIDENCIA DEL CONSEJO">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1984102242.1" Name="SUBDIRECCIÓN DE LOGÍSTICA Y SEGUIMIENTO ADMINISTRATIVO">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_723036834.1" Name="Vincular instituciones susceptibles para colaborar en el VMRE">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_74725720.1" Name="OFICINA DE VINCULACIÓN ELECTORAL DE LOS MEXICANOS EN EL EXTRANJERO">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1797138212.1" Name="INSTITUCIÓN SUSCEPTIBLE DE COLABORAR EN EL VMRE">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_814884864.1" Name="Misiones internacionales">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_167850084.1" Name="PRESIDENCIA DEL CONSEJO">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_418659253.1" Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_780187018.1" Name="DIRECCIÓN DE VINCULACIÓN Y COOPERACIÓN INTERNACIONAL">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1522780661.1" Name="PERSONA COMISIONADA">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_2046528516.1" Name="SUBDIRECCIÓN DE VINCULACIÓN CON ORGANISMOS INTERNACIONALES">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_939649000.1" Name="Base de datos global">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_708147967.1" Name="SUBDIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES ">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_863797061.1" Name="DIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1327068000.1" Name="JEFATURA DE DEPARTAMENTO DE INVESTIGACIÓN">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1760814792.1" Name="DEPARTAMENTO DE INVESTIGACIÓN">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1189142718.1" Name="Publicar contenido referente al VMRE en diferentes plataformas digitales">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1040528894.1" Name="TITULAR DE LA COORDINACIÓN DE ASUNTOS INTERNACIONALES U OVEME">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1143487544.1" Name="OFICINA DE VINCULACIÓN ELECTORAL DE LOS MEXICANOS EN EL EXTRANJERO">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1353908087.1" Name="Atención a solicitudes de apoyo y colaborar con OPLE´S">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_193632660.1" Name="PRESIDENCIA DEL CONSEJO">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_207169103.1" Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1530167501.1" Name="Convenios internacionales">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_32629007.1" Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_535361379.1" Name="PRESIDENCIA DEL CONSEJO">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1691933702.1" Name="DIRECCIÓN DE VINCULACIÓN Y COOPERACIÓN INTERNACIONAL">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1896077839.1" Name="DIRECCIÓN JURÍDICA">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1585497704.1" Name="Desarrollar cursos internacionales de especialización">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_241141945.1" Name="SOCIO ESTRATÉGICO">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_609057599.1" Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1434963207.1" Name="SUBDIRECCIÓN DE GESTIÓN DE PROGRAMAS DE CAPACITACIÓN INTERNACIONAL">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1884964830.1" Name="PRESIDENCIA DEL CONSEJO">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1622003810.1" Name="Desarrollar talleres internacionales de adminsitración electoral">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_33244302.1" Name="PRESIDENCIA DEL CONSEJO">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_410479892.1" Name="SUBDIRECCIÓN DE LOGÍSTICA Y SEGUIMIENTO ADMINISTRATIVO">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1421399849.1" Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1518527083.1" Name="SUBDIRECCIÓN DE GESTIÓN DE PROGRAMAS DE CAPACITACIÓN INTERNACIONAL">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1626006973.1" Name="Realizar eventos institucionales internacionales">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_474430469.1" Name="DEPARTAMENTO DE COOPERACIÓN Y SEGUIMIENTO INTERNACIONAL">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_554802074.1" Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1137373344.1" Name="PRESIDENCIA DEL CONSEJO">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1269508883.1" Name="DIRECCIÓN EJECUTIVA DE ADMINISTRACIÓN">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_2140918283.1" Name="DIRECCIÓN DE VINCULACIÓN Y COOPERACIÓN INTERNACIONAL">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1645794199.1" Name="Investigación electoral comparada">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_664007199.1" Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1115307029.1" Name="ORGANISMOS INTITUCIONALES ELECTORALES ESPECIALIZADOS">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1211277422.1" Name="DIRECCIÓN EJECUTIVA DE ADMINISTRACIÓN">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1233538784.1" Name="COMITÉ EDITORIAL">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1246606325.1" Name="COORDINACIÓN NACIONAL DE COMUNICACIÓN SOCIAL">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1383471747.1" Name="PRESIDENCIA DEL CONSEJO GENERAL">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1722283234.1" Name="Promocionar actividades electorales dentro del ámbito internacional con OPLE´S">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_355936662.1" Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES ">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_811529542.1" Name="ORGANISMO PÚBLICO LOCAL ELECTORAL">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_2097492807.1" Name="PRESIDENCIA DEL CONSEJO">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1921970875.1" Name="Elaborar carpetas informativas">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1006496608.1" Name="DIRECCIÓN DE ESTUDIOS Y PROYECTOS INTERNACIONALES">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1841773437.1" Name="COORDINACIÓN DE ASUNTOS INTERNACIONALES">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+		<WorkflowProcess Id="PG_1882249166.1" Name="FUNCIONARIO">
+			<ProcessHeader/>
+			<Participants/>
+			<Activities/>
+			<Transitions/>
+		</WorkflowProcess>
+	</WorkflowProcesses>
+	<ExtendedAttributes/></Package>
