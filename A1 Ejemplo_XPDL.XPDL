@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://www.wfmc.org/2008/XPDL2.1" Id="PG_1000" Name="ProcessGuide XPDL 2.1 Export">
 	<PackageHeader>
 		<XPDLVersion>2.1</XPDLVersion>
