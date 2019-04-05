@@ -1,4 +1,3 @@
-<?xml version="1.0"?>
 <bpmn2:definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="_2019040301914" targetNamespace="http://www.bizagi.com/definitions/_2019040301914" xmlns="http://www.omg.org/spec/BPMN/20100524/MODEL">
   <bpmn2:process id="Id_4efba5af-7454-4c1c-813a-a00f185626d1" name="Proceso principal">
     <documentation />
